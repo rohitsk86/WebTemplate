@@ -1,0 +1,17 @@
+{
+    "status": "success",
+    "appName": "HTML5 Starter Kit",
+    "users": [
+        {
+            "id": 1,
+            "name": "Jane Doe",
+            "role": "Lead Developer"
+        },
+        {
+            "id": 2,
+            "name": "John Smith",
+            "role": "UI/UX Designer"
+        }
+    ]
+}
+
